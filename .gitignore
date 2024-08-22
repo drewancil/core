@@ -1,4 +1,16 @@
-/config
+config/.cloud/
+config/.storage/
+config/blueprints/
+config/deps/
+config/tts/
+config/www/
+config/.HA_VERSION
+config/*.yaml
+config/*.db*
+config/*.log*
+config/custom_components/hacs/
+config/custom_components/integration_blueprint/
+
 config2/*
 
 tests/testing_config/deps
